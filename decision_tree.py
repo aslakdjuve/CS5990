@@ -1,9 +1,9 @@
 # -------------------------------------------------------------------------
-# AUTHOR: your name
+# AUTHOR: Aslak Djuve
 # FILENAME: decision_tree.py
 # SPECIFICATION: Read training and test data, build decision trees, and evaluate performance
 # FOR: CS 5990 (Advanced Data Mining) - Assignment #3
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 4 hours
 # -----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
