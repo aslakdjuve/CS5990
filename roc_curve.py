@@ -1,9 +1,9 @@
 # -------------------------------------------------------------------------
-# AUTHOR: your name
+# AUTHOR: Aslak Djuve
 # FILENAME: roc_curve.py
 # SPECIFICATION: Read data, split into train/test sets, build decision tree, and plot ROC curve
 # FOR: CS 5990 (Advanced Data Mining) - Assignment #3
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 4 hours
 # -----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
